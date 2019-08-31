@@ -37,6 +37,7 @@
 *._ia
 *.__i
 *._ii
+build/
 
 # Debugger files
 *.ini  	# define exception below if needed
@@ -65,3 +66,4 @@
 *.iex
 *.tmp
 *.DS_Store
+.vscode
